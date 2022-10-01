@@ -10,6 +10,7 @@ GCD = 2
 
 LCM = 12
 
+
 Input 2:
 
 8 7
