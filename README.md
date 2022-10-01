@@ -12,10 +12,10 @@ LCM = 12
 
 Input 2:
 
-8 7
+17 8
 
 Output 2:
 
 GCD = 1
 
-LCM = 56
+LCM = 136
