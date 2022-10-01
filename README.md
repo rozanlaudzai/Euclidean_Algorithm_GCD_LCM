@@ -1,1 +1,8 @@
-# GCD_and_LCM_using_Euclid
+# Input output example:
+
+Input:
+4 6
+
+Output:
+GCD = 2
+LCM = 12
