@@ -1,3 +1,6 @@
+# GCD_and_LCM_using_Euclid
+GCD and LCM using euclid algorithm make the program run more effectively.
+
 # Input output examples:
 
 Input 1:
