@@ -1,4 +1,4 @@
-# Euclid_Algorithm_GCD_and_LCM
+# Euclidean_Algorithm_GCD_LCM
 Euclidean algorithm is useful for computing GCD (Greatest Common Divisor) and LCM (Least Common Multiple) to run the programs more faster and efficient.
 
 # Input and output examples:
