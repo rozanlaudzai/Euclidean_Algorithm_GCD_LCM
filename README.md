@@ -1,8 +1,7 @@
-# GCD_and_LCM_using_Euclid
-GCD and LCM using euclid algorithm make the program run more effectively.
+# Euclid_Algorithm_GCD_and_LCM
+Euclid algorithm is useful for GCD and LCM programs to run more effectively.
 
-# Input output examples:
-
+# Input and output examples:
 Input 1:
 
 4 6
